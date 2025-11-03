@@ -1,1 +1,1 @@
-The weather today is 21 degrees Celsius and sunny.
+The weather today is 10 degrees Celsius and it's dark outside.
