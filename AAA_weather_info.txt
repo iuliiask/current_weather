@@ -1,1 +1,1 @@
-The weather today is 12 degrees Celsius and it's sunny outside, possibly cloudy later on.
+Right now it is 14 degrees Celsius and cloudy.
